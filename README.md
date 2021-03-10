@@ -1,5 +1,5 @@
 # flask-mqtt
-example Flask / flask-mqtt / flask-socketio
+example **Flask / flask-mqtt / flask-socketio**
 
 see: https://github.com/miguelgrinberg/Flask-SocketIO
 
